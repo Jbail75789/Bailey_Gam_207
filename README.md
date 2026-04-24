@@ -17,7 +17,11 @@ Gameplay Experience
 The core loop focuses on high-speed mobility and resource management. Players must navigate a complex 3D arena, utilizing cover to break AI line-of-sight while securing tactical power-ups to survive against increasing odds.
 
 Media
-[LINK TO YOUR YOUTUBE VIDEO HERE] - Narrated Technical Demonstration
+Youtube: https://youtu.be/4NUK8mE2UB0
+
+
+
+
 
 Tools Used
 Engine: Unreal Engine
@@ -25,3 +29,5 @@ Engine: Unreal Engine
 Language: Blueprints (Visual Scripting)
 
 Version Control: Git / GitHub
+
+
